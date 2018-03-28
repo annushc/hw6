@@ -47,8 +47,8 @@
 
 ### **Task 2**
 <img src="https://github.com/annushc/hw6/blob/master/Screen%205.PNG" width= "400" height="500" align="left"/> 
-Местоимения "anything" и "something" употребляются и с глаголом "(to)say", и с глаголом "(to)tell".
-Однако со словом "goodbuy" предпочтительно употребляется глагол "(to)say", а с существительными "truth" и "story" употребляется глагол "(to)tell".
+Местоимения "anything" и "something" употребляются и с глаголом "(to) say", и с глаголом "(to) tell".
+Однако со словом "goodbuy" предпочтительно используется глагол "(to) say", а с существительными "truth" и "story" - глагол "(to) tell".
 
 <br clear="all"/> 
 
