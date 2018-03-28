@@ -22,6 +22,8 @@
 <br clear="all"/> 
 
 ### **Task 3**
-<img src="https://github.com/annushc/hw6/blob/master/Screen%202.PNG" width="860" height="450" align="left"/> 
+<img src="https://github.com/annushc/hw6/blob/master/Screen%203%20(1).PNG" width="860" height="450" align="left"/> 
+<br clear="all"/> 
+<img src="https://github.com/annushc/hw6/blob/master/Screen%203%20(1).PNG" width="860" height="450" align="left"/> 
 <br clear="all"/> 
 
