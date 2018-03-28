@@ -54,7 +54,7 @@
 <br clear="all"/> 
 
 ### **Bonus task 3**
-<img src="https://github.com/annushc/hw6/blob/master/Screen%203%20(2).PNG" width="860" height="450" align="left"/> 
+<img src="https://github.com/annushc/hw6/blob/master/Screen%206%20(1).PNG" width="600" height="40" align="left"/> 
 <br clear="all"/> 
 <img src="https://github.com/annushc/hw6/blob/master/Screen%203%20(2).PNG" width="860" height="450" align="left"/> 
 <br clear="all"/> 
