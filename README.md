@@ -35,11 +35,11 @@
 
 ### Part 2: **Sketch Engine**
 ### **Task 1**
-<img src="https://github.com/annushc/hw6/blob/master/Screen%204.PNG" width="220" height="230" align="left"/> 
+<img src="https://github.com/annushc/hw6/blob/master/Screen%204.PNG" width="220" height="225" align="left"/> 
 
-1. **difficult** question
-2. **important** question
-3. **fundamental** question
+1.**difficult** question
+2.**important** question
+3.**fundamental** question
 
 <br clear="all"/> 
 
