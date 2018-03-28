@@ -22,8 +22,10 @@
 <br clear="all"/> 
 
 ### **Task 3**
+***Частота употребления слов "film" и "movie" за 2009 год.***
 <img src="https://github.com/annushc/hw6/blob/master/Screen%203%20(1).PNG" width="860" height="450" align="left"/> 
 <br clear="all"/> 
-<img src="https://github.com/annushc/hw6/blob/master/Screen%203%20(1).PNG" width="860" height="450" align="left"/> 
+***Частота употребления слов "film" и "movie" за 2012 год.***
+<img src="https://github.com/annushc/hw6/blob/master/Screen%203%20(2).PNG" width="860" height="450" align="left"/> 
 <br clear="all"/> 
 
