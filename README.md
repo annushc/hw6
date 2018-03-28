@@ -58,7 +58,7 @@
 <br clear="all"/> 
 <img src="https://github.com/annushc/hw6/blob/master/Screen%206%20(2).PNG" width="280" height="120" align="left"/> 
 <br clear="all"/> 
-<img src="https://github.com/annushc/hw6/blob/master/Screen%203%20(2).PNG" width="860" height="450" align="left"/> 
+<img src="https://github.com/annushc/hw6/blob/master/Screen%206%20(3).PNG" width="860" height="450" align="left"/> 
 <br clear="all"/> 
 <img src="https://github.com/annushc/hw6/blob/master/Screen%203%20(2).PNG" width="860" height="450" align="left"/> 
 <br clear="all"/> 
