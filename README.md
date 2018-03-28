@@ -1,3 +1,4 @@
+
 ## Homework 6
 ### Part 1: **Google Ngram Viewer**
 
@@ -52,5 +53,14 @@
 
 <br clear="all"/> 
 
+### **Bonus task 3**
+<img src="https://github.com/annushc/hw6/blob/master/Screen%203%20(2).PNG" width="860" height="450" align="left"/> 
+<br clear="all"/> 
+<img src="https://github.com/annushc/hw6/blob/master/Screen%203%20(2).PNG" width="860" height="450" align="left"/> 
+<br clear="all"/> 
+<img src="https://github.com/annushc/hw6/blob/master/Screen%203%20(2).PNG" width="860" height="450" align="left"/> 
+<br clear="all"/> 
+<img src="https://github.com/annushc/hw6/blob/master/Screen%203%20(2).PNG" width="860" height="450" align="left"/> 
+<br clear="all"/> 
 
 
