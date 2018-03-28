@@ -35,11 +35,22 @@
 
 ### Part 2: **Sketch Engine**
 ### **Task 1**
-<img src="https://github.com/annushc/hw6/blob/master/Screen%204.PNG" width="220" height="225" align="left"/> 
+<img src="https://github.com/annushc/hw6/blob/master/Screen%204.PNG" width="230" height="225" align="left"/> 
 
 1.**difficult** question
+
 2.**important** question
+
 3.**fundamental** question
 
 <br clear="all"/> 
+
+### **Task 2**
+<img src="https://github.com/annushc/hw6/blob/master/Screen%205.PNG" width= "400" height="500" align="left"/> 
+Местоимения "anything" и "something" употребляются и с глаголом "(to)say", и с глаголом "(to)tell".
+Однако со словом "goodbuy" предпочтительно употребляется глагол "(to)say", а с существительными "truth" и "story" употребляется глагол "(to)tell".
+
+<br clear="all"/> 
+
+
 
